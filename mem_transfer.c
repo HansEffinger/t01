@@ -3,6 +3,7 @@
  * Combine MPI and OMP
  * 
  * Revised:	Hans Effinger, Nov 2014
+ * 		Hans Effinger, Dez 2014
  *
  */
 
